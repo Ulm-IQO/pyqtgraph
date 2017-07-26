@@ -9,8 +9,8 @@ heavy leverage of numpy for number crunching, Qt's GraphicsView framework for
 """
 
 setupOpts = dict(
-    name='pyqtgraph',
-    description='Scientific Graphics and GUI Library for Python',
+    name='pyqtgraph-qo',
+    description='Scientific Graphics and GUI Library for Python (QO internal use version)',
     long_description=DESCRIPTION,
     license='MIT',
     url='http://www.pyqtgraph.org',
